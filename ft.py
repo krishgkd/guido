@@ -1,0 +1,2 @@
+kotnm=input()
+print(kotnm+".")
